@@ -46,7 +46,7 @@ int main()
     if (sum > max)
         max = sum;
 
-    printf("Maximum is: %d", max);
+    printf("Maximum is: %d", max); // part 1 solution
 
     return 0;
 }
